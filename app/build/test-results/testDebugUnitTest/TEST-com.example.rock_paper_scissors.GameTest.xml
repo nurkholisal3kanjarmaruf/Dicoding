@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.rock_paper_scissors.GameTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-01-15T03:51:08" hostname="DESKTOP-VA0SEBG" time="0.031">
+  <properties/>
+  <testcase name="testIsWin" classname="com.example.rock_paper_scissors.GameTest" time="0.025"/>
+  <testcase name="testPickDrawable" classname="com.example.rock_paper_scissors.GameTest" time="0.001"/>
+  <testcase name="testPickRandomOption" classname="com.example.rock_paper_scissors.GameTest" time="0.004"/>
+  <testcase name="testIsDraw" classname="com.example.rock_paper_scissors.GameTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
