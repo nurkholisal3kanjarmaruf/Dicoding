@@ -7,8 +7,8 @@ class HelloTest {
 
     @Test
     fun testSayHello() {
-        val result = Hello.sayHello("Eko")
+        val result = Hello.sayHello("alek")
 
-        Assert.assertEquals("Hello Eko", result)
+        Assert.assertEquals("Hello alek", result)
     }
 }
